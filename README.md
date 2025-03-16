@@ -1,34 +1,35 @@
-## Philosophy Behind "Therapeutic Balance"
+## Philosophy Behind "Global Comfort"
 
 https://paparomes.github.io/thepowerinside-mockup-comfort/
 
-The Therapeutic Balance design creates a serene yet warm digital environment that serves as a 
-transitional space between a potential client's distress and their first step toward healing. 
+The Global Comfort design creates a sophisticated yet accessible environment that speaks to an 
+international clientele while maintaining cultural sensitivity and emotional warmth.
 
 ### Color Psychology
-- **Primary Blue (#5A87AD)**: This serene blue establishes psychological safety while projecting 
-  professional competence. Unlike clinical blues, this shade has enough warmth to feel inviting rather 
-  than institutional.
-- **Secondary Sand (#D4B595)**: Introduces warmth and human connection, balancing the cooler blue to 
-  create a harmonious visual experience that feels grounded and accessible.
-- **Accent Sage (#7B9E89)**: Represents growth and renewal without the intensity of brighter greens, 
-  subtly reinforcing the transformative nature of the therapeutic journey.
+- **Primary Blue (#6A8EAE)**: This muted blue has universal positive associations across cultures, 
+  conveying professionalism without cultural specificity. Its softened tone creates a sense of calm 
+  authority rather than institutional coldness.
+- **Secondary Terracotta (#E8C3A2)**: Offers warmth that translates well across cultural contexts, 
+  avoiding colors with strong regional connotations while creating a sense of comfort and support.
+- **Accent Sage (#8FB996)**: Represents growth and possibility with a freshness that feels 
+  internationally modern rather than tied to Western design conventions.
 
 ### Structural Approach
-This design employs a linear narrative structure that guides visitors through a logical progression:
-1. **Immediate emotional connection** via the hero section's calming imagery and reassuring headline
-2. **Clear service distinction** between therapy and coaching, allowing visitors to self-identify their needs
-3. **Credential presentation** that builds trust through professional expertise without overwhelming
-4. **Social proof** through carefully anonymized testimonials
-5. **Low-pressure invitation** to make contact through a form designed to reduce anxiety
+This design employs a modular structure with clear visual distinction between service types:
+1. **Prominent language selection** acknowledges the multilingual audience immediately
+2. **Three-button navigation** creates intentional pathways based on visitor needs: service exploration, 
+   direct contact, or understanding the therapeutic approach
+3. **Service categorization** with visual badges differentiates therapy from coaching
+4. **Cultural adaptation** through careful typography selection that supports Cyrillic and Latin characters
+5. **International accessibility** emphasized through location-agnostic contact options
 
 ### Typography Strategy
-The Merrifield Pro/Source Sans Pro pairing creates a balance between authority and accessibility:
-- **Merrifield Pro**: Its subtle serifs convey established expertise while remaining approachable 
-  through its open letterforms
-- **Source Sans Pro**: Highly readable across languages with friendly, open characteristics that 
-  support multilingual content without visual friction
+The Baskerville/Fira Sans pairing creates a bridge between established tradition and modern accessibility:
+- **Baskerville**: Carries universal credibility across cultures while avoiding overly nationalistic 
+  associations through its classic proportions
+- **Fira Sans**: Designed specifically for multilingual support with excellent readability across 
+  languages including Russian Cyrillic characters
 
-This design prioritizes emotional containment through its structured layout, soothing color palette, 
-and balanced visual hierarchy—creating a digital space where potential clients can feel both the 
-practitioner's expertise and genuine compassion.
+This design prioritizes international accessibility through its careful color choices, multilingual 
+support features, and culturally-neutral imagery—creating a digital space where clients from diverse 
+backgrounds can all feel equally welcome and understood regardless of location or language.
