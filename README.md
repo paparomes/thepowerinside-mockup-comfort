@@ -1,5 +1,7 @@
 ## Philosophy Behind "Therapeutic Balance"
 
+https://paparomes.github.io/thepowerinside-mockup-comfort/
+
 The Therapeutic Balance design creates a serene yet warm digital environment that serves as a 
 transitional space between a potential client's distress and their first step toward healing. 
 
